@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: c8a6f0199c2ad2545accda320806863d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoundBlue
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47112ffea42fcd4eb07588de0d7f945
+      internalID: 624809728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayRed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1700
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c06131391516054d8d46d7366950ee4
+      internalID: 777592712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayBlue
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1701
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3209c089a3ce9df4d8ac29e9c2342427
+      internalID: 126915688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseRed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1108
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd8d3da0c2c1c47a75586a4dff36ba
+      internalID: -968709818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseBlue
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1108
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cad2b788a9743428bf54f0cb3a6e9f
+      internalID: 1133016243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsRed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 368
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e59e44c7580c43835a41a3eea9aa5
+      internalID: -110271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundRed
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1700
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820025808d806047a29023fa310681b
+      internalID: 1198457511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitRed
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 812
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0c586c78133d4084592576de30f65
+      internalID: 857460348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitBlue
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 812
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d707c02bd7e645a27d6fe78ad3962
+      internalID: 1245774699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsBlue
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 368
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f26028c81c4ef4589bdd4055ed3cab
+      internalID: -1932845045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RestartBlue
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112197935fb76014f8d2d8ad6b23917e
+      internalID: 1874996845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RestartRed
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1552
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770d9da1e5325f44aff36d4a8177d55
+      internalID: -1507452669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeBlue
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1404
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d03617f1fcace4797c69f5f86b4ef0
+      internalID: 715613822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeRed
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1404
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d6be2aabd1f0f41bafb7556f560dd9
+      internalID: -1244563692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackBlue
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 812
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e6fbde6cf0434db174c9d591f598f
+      internalID: -1150759420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackRed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 812
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ccf869cd1e3b42accfda01017f311
+      internalID: 1171157305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a5166659cfba4b8284e96bbb118e3
+      internalID: 1412962426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3f526bdae751cd4f8d0d035b07d0269
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Iconic2048x2048_13: 872019472
+      Iconic2048x2048_85: -842894270
+      Iconic2048x2048_106: -304348271
+      Iconic2048x2048_4: 1831602797
+      Iconic2048x2048_21: -2093861590
+      Iconic2048x2048_78: 508699041
+      Iconic2048x2048_115: 1601796484
+      Iconic2048x2048_25: -1570441711
+      Iconic2048x2048_43: 1727000951
+      PlayBlue: 126915688
+      Iconic2048x2048_138: -843602093
+      ExitBlue: 1245774699
+      Iconic2048x2048_80: -283220113
+      Iconic2048x2048_105: 2010574752
+      Iconic2048x2048_77: 1665750534
+      Iconic2048x2048_70: 1295691166
+      Iconic2048x2048_114: 1093243519
+      Iconic2048x2048_9: 1889560883
+      Iconic2048x2048_22: -715673569
+      Iconic2048x2048_75: -995399750
+      Iconic2048x2048_33: -437447573
+      ExitRed: 857460348
+      Iconic2048x2048_69: -1053901010
+      Iconic2048x2048_41: -218568573
+      Iconic2048x2048_86: 1150289273
+      PlayRed: 777592712
+      RestartRed: -1507452669
+      Iconic2048x2048_113: 1581648245
+      Iconic2048x2048_116: -1195678614
+      Iconic2048x2048_46: 913117867
+      Iconic2048x2048_45: -438136927
+      Iconic2048x2048_68: 1816431785
+      Iconic2048x2048_79: -1179237439
+      Iconic2048x2048_3: 1694287176
+      Iconic2048x2048_95: -1138007188
+      Iconic2048x2048_27: 1490391907
+      Iconic2048x2048_65: -1086826998
+      SoundRed: 1198457511
+      Iconic2048x2048_73: 1260408492
+      Iconic2048x2048_57: -298527174
+      Iconic2048x2048_1: 91928500
+      Iconic2048x2048_131: -1194420318
+      Iconic2048x2048_62: -1044310586
+      Iconic2048x2048_149: 882370120
+      Iconic2048x2048_48: -1042540779
+      BackRed: 1171157305
+      Iconic2048x2048_98: 1472151800
+      Iconic2048x2048_88: -1325488314
+      Iconic2048x2048_119: 1457090030
+      Iconic2048x2048_130: 1490411054
+      Iconic2048x2048_2: 227484683
+      Iconic2048x2048_124: -1047665828
+      Iconic2048x2048_36: -698346550
+      Iconic2048x2048_136: 543611646
+      Iconic2048x2048_94: -684385097
+      Iconic2048x2048_10: 1319251604
+      Iconic2048x2048_141: -917697912
+      Iconic2048x2048_152: 399320083
+      Iconic2048x2048_129: 1185314322
+      Iconic2048x2048_137: 1671264092
+      Iconic2048x2048_49: 1030492662
+      Iconic2048x2048_91: 1394932788
+      Iconic2048x2048_100: -1866481382
+      Iconic2048x2048_47: 1523193365
+      Iconic2048x2048_126: 1477851318
+      Iconic2048x2048_55: 1228206849
+      Iconic2048x2048_17: -2088137195
+      Iconic2048x2048_104: -1153095634
+      Iconic2048x2048_76: -1905870713
+      Iconic2048x2048_71: 68325774
+      Iconic2048x2048_51: 1909582572
+      Iconic2048x2048_139: 968701771
+      Iconic2048x2048_8: 590604594
+      Iconic2048x2048_145: 1163637092
+      Iconic2048x2048_122: -1713340877
+      Iconic2048x2048_93: -531609408
+      Iconic2048x2048_127: 1715035001
+      Iconic2048x2048_29: -339689860
+      Iconic2048x2048_140: -835757047
+      Iconic2048x2048_83: -1741737624
+      Iconic2048x2048_5: -934261243
+      PauseBlue: 1133016243
+      Iconic2048x2048_125: -1243202306
+      Iconic2048x2048_44: -1688527127
+      Iconic2048x2048_84: -509627405
+      Iconic2048x2048_14: -1469413790
+      Iconic2048x2048_154: 32193473
+      Iconic2048x2048_133: 1995054497
+      SettingsBlue: -1932845045
+      Iconic2048x2048_96: -1191367562
+      Iconic2048x2048_50: -374886608
+      Iconic2048x2048_53: -25630610
+      Iconic2048x2048_24: -1905460140
+      Iconic2048x2048_97: -1860912562
+      Iconic2048x2048_134: -76057520
+      PauseRed: -968709818
+      Iconic2048x2048_58: 44150214
+      Iconic2048x2048_34: -1362062523
+      Iconic2048x2048_102: 2037022907
+      Iconic2048x2048_87: 1594736679
+      Iconic2048x2048_56: -1512017192
+      Iconic2048x2048_32: -2019012903
+      Iconic2048x2048_0: 1621048428
+      BackBlue: -1150759420
+      Iconic2048x2048_107: 765669846
+      Iconic2048x2048_89: 293384527
+      Iconic2048x2048_112: -440287026
+      Iconic2048x2048_121: -746840996
+      Iconic2048x2048_28: -1519148087
+      Iconic2048x2048_38: 1076474482
+      Iconic2048x2048_40: 126454267
+      Iconic2048x2048_147: -1973068908
+      Iconic2048x2048_103: -1876163179
+      Iconic2048x2048_111: -1516764131
+      Iconic2048x2048_16: 441691701
+      Iconic2048x2048_92: 941624332
+      Iconic2048x2048_108: -174688175
+      Iconic2048x2048_109: 1563736642
+      SettingsRed: -110271686
+      Iconic2048x2048_18: -607743847
+      Iconic2048x2048_128: 845749163
+      Iconic2048x2048_19: 1395832379
+      Iconic2048x2048_118: 1026114887
+      Iconic2048x2048_67: -247566181
+      Iconic2048x2048_110: -1623803728
+      Iconic2048x2048_23: 2015734631
+      Iconic2048x2048_52: 2034322214
+      Iconic2048x2048_144: 1864692897
+      Iconic2048x2048_26: 1137662448
+      Iconic2048x2048_6: 247483478
+      Iconic2048x2048_37: -290688448
+      Iconic2048x2048_59: 598070552
+      SoundBlue: 624809728
+      Iconic2048x2048_54: 856478020
+      Iconic2048x2048_61: -418090216
+      Iconic2048x2048_31: 1296715267
+      Iconic2048x2048_66: 836130849
+      Iconic2048x2048_74: -1440174782
+      Iconic2048x2048_72: -43560241
+      Iconic2048x2048_153: -1251708430
+      Iconic2048x2048_39: 2020329103
+      Iconic2048x2048_146: -736634229
+      Iconic2048x2048_99: 315263874
+      Iconic2048x2048_123: 490628905
+      Iconic2048x2048_150: -758259935
+      Iconic2048x2048_155: 935724754
+      Iconic2048x2048_11: 259380682
+      Iconic2048x2048_20: -791565576
+      Iconic2048x2048_64: 1580849292
+      Iconic2048x2048_90: -1604847922
+      Iconic2048x2048_148: 1165790527
+      HomeBlue: 715613822
+      Iconic2048x2048_101: 378015270
+      Iconic2048x2048_117: -728208940
+      Iconic2048x2048_42: 1666609023
+      Iconic2048x2048_82: 1202253366
+      Iconic2048x2048_81: 1492123592
+      Iconic2048x2048_142: -2120880290
+      Iconic2048x2048_143: -1525279812
+      Iconic2048x2048_135: 202529330
+      RestartBlue: 1874996845
+      Iconic2048x2048_132: -1011619949
+      Iconic2048x2048_30: -344990146
+      Iconic2048x2048_151: 1029378176
+      Panel: 1412962426
+      HomeRed: -1244563692
+      Iconic2048x2048_35: -2034831158
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
